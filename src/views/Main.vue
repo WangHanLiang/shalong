@@ -215,9 +215,6 @@ export default {
   height: 100%;
   background-color: rgb(197, 165, 99);
 }
-span {
-  color: floralwhite;
-}
 .left {
   padding-top: 45px;
 }
